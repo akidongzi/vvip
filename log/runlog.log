@@ -1,0 +1,12 @@
+[2018-09-18 16:34:03,492]: log initialization log handler success! FILE=[./log/runlog.log] 
+[2018-09-18 16:34:03,492]: connectionpool Starting new HTTP connection (1): hao123.com:80 
+[2018-09-18 16:34:04,569]: connectionpool http://hao123.com:80 "GET / HTTP/1.1" 302 160 
+[2018-09-18 16:34:04,569]: connectionpool Starting new HTTP connection (1): www.hao123.com:80 
+[2018-09-18 16:34:05,759]: connectionpool http://www.hao123.com:80 "GET / HTTP/1.1" 200 None 
+[2018-09-18 16:34:05,805]: req 200 
+[2018-09-18 16:37:46,122]: log initialization log handler success! FILE=[./log/runlog.log] 
+[2018-09-18 16:37:46,122]: connectionpool Starting new HTTP connection (1): hao123.com:80 
+[2018-09-18 16:37:46,217]: connectionpool http://hao123.com:80 "GET / HTTP/1.1" 302 160 
+[2018-09-18 16:37:46,217]: connectionpool Starting new HTTP connection (1): www.hao123.com:80 
+[2018-09-18 16:37:46,404]: connectionpool http://www.hao123.com:80 "GET / HTTP/1.1" 200 None 
+[2018-09-18 16:37:46,529]: req 200 
